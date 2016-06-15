@@ -1,7 +1,7 @@
 {
-  "name": "backboneapp4",
+  "name": "backbone-js-sample-app4",
   "version": "0.0.1",
-  "description": "Backbone RESTful sample 4",
+  "description": "Backbone.js RESTful sample model #4.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,18 +9,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/S035779/backboneapp4.git"
+    "url": "git+https://github.com/S035779/backboneApp4.git"
   },
   "keywords": [
-    "backboneapp"
+    "backbone.js"
   ],
   "author": "Mamoru Hashimoto",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/S035779/backboneapp4/issues"
+    "url": "https://github.com/S035779/backboneApp4/issues"
   },
-  "homepage": "https://github.com/S035779/backboneapp4#readme",
+  "homepage": "https://github.com/S035779/backboneApp4#readme",
   "devDependencies": {
+  },
+  "dependencies": {
     "body-parser": "^1.15.1",
     "express": "^4.13.4",
     "mongoose": "^4.4.19",
